@@ -30,7 +30,9 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/svelte%20Query-FF4154?style=for-the-badge&logo=svelte%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/svelte-FF4154?style=for-the-badge&logo=svelte&logoColor=white" />&nbsp
+	  <img src="https://img.shields.io/badge/reactquery-F24E1E.svg?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
+
 </div>
 
 <h3 align="center">🔗 Deploys 🔗</h3>
