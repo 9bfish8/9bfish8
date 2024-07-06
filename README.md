@@ -27,7 +27,7 @@
 
 <br>
 
-<a href="https://github.com/1bfish106"><h3 align="center">📚 Studying 📚</h3>
+<a href="https://github.com/1bfish106"><h3 align="center">📚 Studying 📚</h3></a>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/svelte-FF4154?style=for-the-badge&logo=svelte&logoColor=white" />&nbsp
