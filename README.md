@@ -69,8 +69,6 @@
 		<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9bfish8&theme=algolia" width="35%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9bfish8&theme=algolia" width="70%" />
 
-  <h3> 자바스크립트랑 맞짱뜨는 프로젝트 </h3>
-  https://github.com/2024-KDT-JNA/Pentoryall.git
 
 
 <br>
