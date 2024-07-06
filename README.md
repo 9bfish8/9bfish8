@@ -1,9 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🐟's%20프로젝트%20계정&fontSize=40" />
-
+<div align="center">
+<img src = "https://github.com/9bfish8/9bfish8/assets/163974510/392e88ce-f76d-497f-a059-1ebbad55f5bf">
+</div>
+ 
 ## ℹ️ git status 공사중이에요~
+<div>
+<div>
  <a href="https://github.com/9bfish8">
       <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=9bfish8&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="godeung-eo's github stats" />
     </a>
+    
+</div>
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <div>
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
@@ -26,4 +33,5 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+  </div>
   </div>
