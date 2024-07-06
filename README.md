@@ -1,6 +1,10 @@
 <div align="center">
 <img src = "https://github.com/9bfish8/9bfish8/assets/163974510/392e88ce-f76d-497f-a059-1ebbad55f5bf">
 
+<h3 align="center">🖥️ 주요 프로젝트 🖥️</h3>
+<h4 align="center">자바스크립트와 싸우다</h4>
+
+
  <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
