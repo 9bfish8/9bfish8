@@ -4,12 +4,12 @@
 
 <h3 align="center">🖥️ 주요 프로젝트 🖥️</h3>
 <h4 align="center">
-  <a href="https://github.com/2024-KDT-JNA/Pentoryall.git">자바스크립트와 싸우다👊</a>
+  <a href="https://github.com/2024-KDT-JNA/Pentoryall.git">[SUB]자바스크립트와 싸우다👊</a>
 </h4>
 <br>
 
 <h4 align="center">
-  <a href="https://github.com/team-yeo-eun-pa/greenFire-frontend.git">리액트 짝사랑녀 등장💘</a>
+  <a href="https://github.com/team-yeo-eun-pa/greenFire-frontend.git">[FINAL]리액트 짝사랑녀 등장💘</a>
 </h4>
 
 <br>
