@@ -1,9 +1,6 @@
 <div align="center">
 <img src = "https://github.com/9bfish8/9bfish8/assets/163974510/392e88ce-f76d-497f-a059-1ebbad55f5bf">
-</div>
- 
-## ℹ️ git status 공사중이에요~
- <h4> 🛠 Tech Stacks </h4>
+  <h3> 🛠 Tech Stacks </h3>
   <table>
     <tbody>
       <tr>
@@ -36,9 +33,10 @@
   </table>
   <br/> 
 	
-  <h4> 📊 Stats </h4>
+  <h3> 📊 Stats </h3>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9bfish8&theme=algolia" width="35%" />
 		<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9bfish8&theme=algolia" width="35%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9bfish8&theme=algolia" width="70%" />
   
 </div>
+
