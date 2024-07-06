@@ -6,6 +6,11 @@
 <br>
 
 <h4 align="center">
+  <a href="https://github.com/yunii2222/course_registration.git">[MINI]우리뭐만들까? : 수강신청어때? : ㅇㅋ</a>
+</h4>
+<br>
+
+<h4 align="center">
   <a href="https://github.com/2024-KDT-JNA/Pentoryall.git">[SUB]자바스크립트와 싸우다👊</a>
 </h4>
 <br>
