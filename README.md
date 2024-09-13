@@ -44,11 +44,38 @@
 </table>
 
 </br>
+
+## 🌟 개인 프로젝트
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/9bfish8/KoreanToMarkdownConverter">
+        <img src="https://img.shields.io/badge/-Converter-blue?style=for-the-badge" alt="Converter">
+        <br>
+        <strong>한국어 to 마크다운 변환기</strong>
+      </a>
+      <br>
+      <a href="https://korean-to-markdown-converter.vercel.app/">
+        <img src="https://img.shields.io/badge/-Live_Demo-success?style=flat-square" alt="Live Demo">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/9bfish8/9bfish8.github.io">
+        <img src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge" alt="Blog">
+        <br>
+        <strong>개인 블로그 : 고등어의 팔딱팔딱</strong>
+      </a>
+      <br>
+      <a href="https://9bfish8.github.io">
+        <img src="https://img.shields.io/badge/-Visit_Blog-success?style=flat-square" alt="Visit Blog">
+      </a>
+    </td>
+  </tr>
+</table>
+
 </br>
 </br>
-
-
-
 
 ## 🛠 기술 스택
 
@@ -61,7 +88,6 @@
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 </br>
 </br>
-</br>
 
 ### 백엔드
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +95,6 @@
 ![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-</br>
 </br>
 </br>
 
@@ -80,7 +105,6 @@
 ![React Query](https://img.shields.io/badge/react_query-FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
 </br>
 </br>
-</br>
 
 ## 🚀 배포
 
@@ -88,7 +112,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</br>
 </br>
 </br>
 
@@ -104,7 +127,6 @@
 
 </br>
 </br>
-</br>
 
 ## 📊 GitHub 통계
 
@@ -118,7 +140,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9bfish8&theme=nord_dark" width="70%" />
 </div>
 
-</br>
 </br>
 </br>
 
