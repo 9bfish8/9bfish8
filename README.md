@@ -1,120 +1,134 @@
+# 고등어의 팔딱거리는 개발기 🐟
 <div align="center">
-<img src = "https://github.com/9bfish8/9bfish8/assets/163974510/392e88ce-f76d-497f-a059-1ebbad55f5bf">
-<br>
+  <img src="https://github.com/9bfish8/9bfish8/assets/163974510/392e88ce-f76d-497f-a059-1ebbad55f5bf" width="50%">
+</div>
 
-<h3 align="center">🖥️ 주요 프로젝트 🖥️</h3>
-<br>
+</br>
+</br>
 
-<h4 align="center">
-  <a href="https://github.com/yunii2222/course_registration.git">[MINI]우리뭐만들까? : 수강신청어때? : ㅇㅋ</a>
-</h4>
-<br>
+## 🚀 주요 프로젝트
 
-<h4 align="center">
-  <a href="https://github.com/2024-KDT-JNA/Pentoryall.git">[SUB]자바스크립트와 싸우다👊</a>
-</h4>
-<br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yunii2222/course_registration.git">
+        <img src="https://img.shields.io/badge/-MINI-ff69b4?style=for-the-badge" alt="MINI">
+        <br>
+        <strong>우리뭐만들까? : 수강신청어때? : ㅇㅋ</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/2024-KDT-JNA/Pentoryall.git">
+        <img src="https://img.shields.io/badge/-SUB-yellow?style=for-the-badge" alt="SUB">
+        <br>
+        <strong>자바스크립트와 싸우다👊</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/team-yeo-eun-pa/greenFire-frontend.git">
+        <img src="https://img.shields.io/badge/-FINAL-brightgreen?style=for-the-badge" alt="FINAL">
+        <br>
+        <strong>리액트 짝사랑녀 등장💘</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AI-Jiwoo/Jiwoo.git">
+        <img src="https://img.shields.io/badge/-AI--X-blueviolet?style=for-the-badge" alt="AI-X">
+        <br>
+        <strong>웹하고 앱도..?/하고싶으신대로/ㅇㅋ</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">
-  <a href="https://github.com/team-yeo-eun-pa/greenFire-frontend.git">[FINAL]리액트 짝사랑녀 등장💘</a>
-</h4>
-
-<br>
-<h4 align="center">
-	<a href="https://github.com/AI-Jiwoo/Jiwoo.git">[AI-X]웹하고 앱도..?/하고싶으신대로/ㅇㅋ</a>
-</h4>
-
-<br>
+</br>
+</br>
+</br>
 
 
 
- <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+
+## 🛠 기술 스택
+
+### 프론트엔드
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</br>
+</br>
+</br>
+
+### 백엔드
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</br>
+</br>
+</br>
+
+## 📚 학습 중
+
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React Query](https://img.shields.io/badge/react_query-FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
+</br>
+</br>
+</br>
+
+## 🚀 배포
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</br>
+</br>
+</br>
+
+## 🔧 도구
+
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</br>
+</br>
+</br>
+
+## 📊 GitHub 통계
+
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-	<img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9bfish8&theme=nord_dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9bfish8&theme=nord_dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9bfish8&theme=nord_dark" width="32%" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/bootstrap-DB7093?style=for-the-badge&logo=bootstrap&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9bfish8&theme=nord_dark" width="70%" />
 </div>
 
-<br>
+</br>
+</br>
+</br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/spring-4d77cf.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
- <img src="https://img.shields.io/badge/java-150458.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/hibernate-11557c.svg?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/mysql-2C2C32.svg?style=for-the-badge&logo=mysql&logoColor=F9AB00" />&nbsp
+## 📫 연락처
 
-</div>
-
-<br>
-
-<a href="https://github.com/1bfish106"><h3 align="center">📚 Studying 📚</h3></a>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/svelte-FF4154?style=for-the-badge&logo=svelte&logoColor=white" />&nbsp
-	  <img src="https://img.shields.io/badge/reactquery-F24E1E.svg?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
-
-</div>
-
-<h3 align="center">🔗 Deploys 🔗</h3>
-  <img src="https://img.shields.io/badge/docker-3578E5?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/githubactions-11557c.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
-      <img src="https://img.shields.io/badge/vercel-3670A0?style=for-the-badge&logo=vercel&logoColor=ffdd54" />&nbsp
-        <img src="https://img.shields.io/badge/amazonwebservices-2C2C32.svg?style=for-the-badge&logo=amazonwebservices&logoColor=F37726" />&nbsp
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/discord-08253c.svg?style=for-the-badge&logo=discord&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
-</div>
-
-
-  
-  <br/> 
-	
-  <h3> 📊 Stats </h3>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9bfish8&theme=algolia" width="35%" />
-		<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9bfish8&theme=algolia" width="35%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9bfish8&theme=algolia" width="70%" />
-
-
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:9bfish8@gmail.com">
-    <img
-      src="https://img.shields.io/badge/9bfish8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-	 <a href="https://github.com/1bfish106">
-    <img src="https://img.shields.io/badge/github-1EBC8F?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <a href="https://github.com/1bfish106">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
- 
-  
-</div>
-
