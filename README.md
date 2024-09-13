@@ -1,4 +1,4 @@
-# 고등어의 팔딱거리는 개발기 🐟
+# 싯가 10만원 프론트엔드 고등어의 개발기 🐟
 <div align="center">
   <img src="https://github.com/9bfish8/9bfish8/assets/163974510/392e88ce-f76d-497f-a059-1ebbad55f5bf" width="80%">
 </div>
