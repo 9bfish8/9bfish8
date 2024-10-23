@@ -81,18 +81,7 @@
 </br>
 </br>
 
-### 🏆 공모전 프로젝트
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PF-GreenFire">
-        <img src="https://img.shields.io/badge/-GreenFire-22C55E?style=for-the-badge" alt="GreenFire">
-        <br>
-        <strong>초록불: 탄소배출 맞춤 비건식단 & 비건식당 정보 추천 서비스</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 </br>
 </br>
