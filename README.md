@@ -6,6 +6,10 @@
 </br>
 </br>
 
+<a href="https://github.com/9bfish8/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{9bfish8}?pet-id=1" width="1000" height="120"/>
+</a>
+
 ## 🚀 프로젝트
 
 </br>
