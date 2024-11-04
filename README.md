@@ -51,15 +51,12 @@
 </br>
 
 ## 🌊 폭풍을 부르는 개발의 바다
-
 <div align="center">
-  
-  ```text
-  🏊‍♂️ 현재 수심: Front-end Developer
-  🎣 주 어종: React, JavaScript, TypeScript
-  🌊 수온: 98℃
-  ```
-  
+  <code>
+      &nbsp;&nbsp;&nbsp;&nbsp;🏊‍♂️ 현재 수심: Front-end Developer&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;🎣 주 어종: React, JavaScript, TypeScript&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;🌊 수온: 98℃&nbsp;&nbsp;&nbsp;&nbsp;
+  </code>
 </div>
 
 </br>
