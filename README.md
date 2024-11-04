@@ -1,4 +1,6 @@
-# 🌊 싯가 10만원 프론트엔드 고등어의 개발 바다 🐟
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=🌊%20싯가1조%20목표%20고등어%20🐟&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer&descSize=25&descAlign=50&descAlignY=55"/>
+</div>
 
 <div align="center">
   <!-- 애니메이션 헤더 -->
@@ -28,12 +30,18 @@
       <circle cx="120" cy="95" r="3" fill="white"/>
     </g>
   </svg>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9bfish8/9bfish8/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9bfish8/9bfish8/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/9bfish8/9bfish8/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
   </br>
   </br>
   
   <!-- 프로필 이미지 -->
-  <img src="https://github.com/9bfish8/9bfish8/assets/163974510/392e88ce-f76d-497f-a059-1ebbad55f5bf" width="80%">
+  
   </br>
   </br>
 
