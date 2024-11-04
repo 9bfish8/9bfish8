@@ -2,23 +2,25 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 12시간마다 실행
+    - cron: "0 */12 * * *"  # 여기 별표 사이에 공백이 있어야 합니다
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:          # 권한 설정 추가
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # v2에서 v3로 업데이트
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: 9bfish8        # 여기에 본인의 GitHub 사용자명을 입력
-          gif_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          github_user_name: 9bfish8
+          outputs: |                             # 출력 형식 수정
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3.1.0  # 버전 업데이트
         with:
           target_branch: output
           build_dir: dist
