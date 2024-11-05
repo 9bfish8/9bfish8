@@ -63,7 +63,7 @@
 </br>
 </br>
 
-## 🐠수족관
+## 🐠양식장
 
 <details>
 <summary>🏰산호초(주요 프로젝트)</summary>
