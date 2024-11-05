@@ -63,7 +63,7 @@
 </br>
 </br>
 
-## 🐠 프로젝트 수족관
+## 🐠수족관
 
 <details>
 <summary>🏰산호초(주요 프로젝트)</summary>
@@ -139,7 +139,7 @@
 </br>
 </br>
 
-## 🎣 기술 스택 바다
+## 🎣바다
 
 <div align="center">
 
@@ -168,7 +168,7 @@ Flutter     🐋 ▰▰▰▰▱▱▱▱▱▱ 40%
 </br>
 </br>
 
-## 📊 개발 수족관 현황
+## 📊수족관 현황
 
 <div align="center">
   <p align="center">
@@ -181,7 +181,7 @@ Flutter     🐋 ▰▰▰▰▱▱▱▱▱▱ 40%
   </p>
 
   <details>
-    <summary>🏆 GitHub 트로피 수집</summary>
+    <summary>🏆 바다에서 보물찾기 ~ </summary>
     <p align="center">
       <img width="90%" src="https://github-profile-trophy.vercel.app/?username=9bfish8&theme=algolia&column=7&no-frame=true&margin-w=15&margin-h=15" />
     </p>
