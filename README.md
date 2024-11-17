@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=🌊%20싯가1조%20목표%20고등어%20🐟&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer&descSize=25&descAlign=50&descAlignY=55"/>
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/9bfish8?pet-id=643645985584586794" width="1000" height="120"/>
+</a>
+
 <div align="center">
   <!-- 애니메이션 헤더 -->
   <svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
