@@ -49,10 +49,7 @@
   </br>
   </br>
 
-  <!-- 방문자 수 -->
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9bfish8&count_bg=%234FACFE&title_bg=%232B5876&icon=&icon_color=%23E7E7E7&title=🐟%20visitors&edge_flat=false"/>
-  </a>
+
 </div>
 </br>
 </br>
