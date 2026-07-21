@@ -134,7 +134,7 @@
 
 ### 에뮬레이터 버전 모니터링 자동화 · [Repo ↗](https://github.com/9bfish8/auto_Emulator)
 
-> 2025.12 ~ Present · QA Automation
+> 2025.12 ~ In active use · QA Automation
 
 - NoxPlayer, MEmu, LDPlayer9, BlueStacks5, MuMuPlayer 5종의 최신 버전을 각 공식 사이트/API에서 자동 크롤링
 - LDPlayer 업데이트 체크 API는 공식 문서가 없어 Wireshark로 패킷을 직접 캡처해 엔드포인트를 찾아 연동
@@ -150,7 +150,7 @@
 
 ### 디바이스 팜 APK 설치 자동화 앱 · (Private)
 
-> 2026.01 · 앱 설계 및 개발
+> 2026.01 · In active use · QA Automation
 
 - 갤럭시 디바이스팜 전체 단말기에 ADB로 APK를 한 번에 설치할 수 있는 전용 Android 앱 설계·개발
 - 서버에 APK를 업로드하면 앱에서 목록을 조회하고 클릭 한 번으로 다운로드·설치되도록 구현
