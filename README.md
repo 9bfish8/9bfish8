@@ -97,34 +97,37 @@
 
 ### Pentoryall — 글을 쓰고 공유해 수익을 낼 수 있는 중개 플랫폼 · [Repo ↗](https://github.com/2024-KDT-JNA/Pentoryall.git)
 
-> 2024.03 ~ 2024.07 · Admin 페이지 개발
+> 2024.03 ~ 2024.07 · Full-stack (Admin 페이지)
 
-- 관리자 페이지 회원관리·신고관리·장르관리 기능을 템플릿부터 로직까지 구현
-- 정산조회, 포스트 수정관리 등 운영 기능 추가 및 페이징·사이드바 개선
-- 관리자 패키지 구조 설계 및 초기 템플릿 세팅 담당
+- 관리자 도메인(회원·신고·장르·정산) 테이블 설계부터 MyBatis 매퍼·서비스·컨트롤러, Thymeleaf 화면까지 전체 구현
+- 신고관리·장르관리 신규 기능 추가, 정산조회·포스트 수정관리 등 운영 기능 및 페이징·사이드바 개선
+- 관리자 패키지 구조 설계 및 초기 세팅 담당
 
 **Stack**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <br/>
 
-### greenFire — 비건·친환경 상품을 파는 에코 이커머스 플랫폼 '초록불' · [Repo ↗](https://github.com/team-yeo-eun-pa/greenFire-frontend.git)
+### greenFire — 비건·친환경 상품을 파는 에코 이커머스 플랫폼 '초록불' · [Frontend ↗](https://github.com/team-yeo-eun-pa/greenFire-frontend.git) · [Backend ↗](https://github.com/team-yeo-eun-pa/greenFire-backend)
 
-> 2024.05 ~ 2024.11 · Frontend (Admin 페이지)
+> 2024.05 ~ 2024.11 · Full-stack (Admin 페이지)
 
-- React 기반 관리자 페이지의 회원관리(조회·정지), 신고관리(조회·상세) 기능 구현
-- 공지사항 생성·조회·상세·권한 처리, 카테고리 CRUD, 리뷰 조회·상세·신고 연동 구현
+- 공지사항·카테고리·회원신고·매장신고·리뷰 도메인 Entity/테이블 설계부터 JPA·QueryDSL 기반 API, React 관리자 화면까지 전체 구현
+- 관리자 회원관리(조회·정지), 신고관리(조회·상세) 등 핵심 기능을 프론트·백엔드 함께 개발
 - 페이징바, 테이블/폼 스타일링 등 관리자 화면 전반의 UI 정리
 
 **Stack**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </details>
 
