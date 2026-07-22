@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/9bfish8?pet-id=733543667863432840" width="500" height="90"/>
+    <img src="https://render.gitanimals.org/lines/9bfish8?pet-id=733543667863432840" width="500" height="200"/>
   </a>
 </div>
 
