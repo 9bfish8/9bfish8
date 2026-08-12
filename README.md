@@ -41,7 +41,7 @@
 
 ## Projects
 
-### 일하영 — 제주 지역 단기 일경험 매칭 서비스 · [Repo ↗](https://github.com/MIL-LO/ilhayoung_app)
+### 일하영 — 제주 지역 단기 일경험 매칭 서비스 · [Repo ↗](https://github.com/MIL-LO/ilhayoung)
 
 > 2025.06 ~ 2025.07 · 서비스 기획 · 구조 설계 · Frontend App
 
