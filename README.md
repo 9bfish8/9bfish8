@@ -41,6 +41,25 @@
 
 ## Projects
 
+### Tikitaka — 멀티 에이전트 토론을 원자 모형으로 실시간 시각화하는 AI 워크스페이스 · [Repo ↗](https://github.com/JunctionXKorea2026-mtwb/Tikitaka_FE) · [Demo ↗](https://tikitaka-fe.vercel.app)
+
+> 2026.08.21 ~ 2026.08.23 · JunctionX Korea 2026 (Team 17 · Make the World Better) · Frontend
+
+- 질문 하나를 원자 하나로, 참여한 에이전트를 그 주위 궤도에 놓는 시각화 모델을 설계해 three.js로 구현 — 후속 질문마다 원자가 결합해 대화 전체가 하나의 분자가 되는 구조
+- 이벤트 → 순수 리듀서 → 파생 그래프로 이어지는 단방향 데이터 흐름을 고정하고, 드라이버 추상화로 mock ↔ 실제 API를 환경변수 한 줄로 전환하도록 설계
+- Squad Discussion API 연동(폴링·대화 저장·검색), 사이드바가 3D를 가리지 않도록 카메라 프러스텀 보정, 미사용 2D 경로 제거로 번들 132KB → 71KB(gzip) 축소, Vercel rewrites 프록시로 CORS 없는 백엔드 연결·배포
+
+**Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<br/>
+
 ### 일하영 — 제주 지역 단기 일경험 매칭 서비스 · [Repo ↗](https://github.com/MIL-LO/ilhayoung)
 
 > 2025.06 ~ 2025.07 · 서비스 기획 · 구조 설계 · Frontend App
